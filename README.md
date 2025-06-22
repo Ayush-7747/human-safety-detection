@@ -136,7 +136,7 @@ human-safety-detection/
 ## 🧠 Author
 
 **Ayush Panwar**  
-[LinkedIn](https://linkedin.com) • [GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/ayush-panwar7/) • [GitHub](https://github.com/Ayush-7747)
 
 ---
 
