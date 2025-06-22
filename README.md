@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🦺 Human Safety Detection using YOLOv11
 
 This project is an **AI-powered object detection system** that helps improve worker safety on construction sites. It detects whether workers are wearing safety gear like **helmets** and **jackets**, and classifies them into four categories:
@@ -148,4 +146,3 @@ If you found this project helpful, consider giving it a ⭐ on GitHub or sharing
 =======
 # human-safety-detection
 AI-based construction site safety gear detection using YOLOv11
->>>>>>> 63ee1517046ff8e2c15eceec06fd2fd759ade0e2
