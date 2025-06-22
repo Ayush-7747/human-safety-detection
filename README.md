@@ -38,8 +38,8 @@ The model is trained using a **custom dataset collected and annotated via Robofl
 
 📊 These results were obtained after training on a custom Roboflow dataset using YOLOv11 for 20 epochs on a 640x640 image size. The model shows strong detection accuracy for safety gear such as helmets and jackets.
 
-![results](runs/detect/train/results.png)
-![confusion_matrix](runs/detect/train/confusion_matrix.png)
+![results](train/results.png)
+![confusion_matrix](train/confusion_matrix.png)
 
 ---
 
