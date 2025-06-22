@@ -13,9 +13,10 @@ The model is trained using a **custom dataset collected and annotated via Robofl
 
 ## 📸 Example Detections
 
-<img src="runs/detect/predict/testimg.jpg" alt="prediction-example" width="500"/>
+<img src="runs/detect/predict2/testimg.jpg" alt="prediction-example" width="500"/>
 
 ---
+
 
 ## 🚀 Features
 
